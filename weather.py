@@ -1,11 +1,8 @@
 import tkinter as tk
 import requests
 
-# Crie a janela do aplicativo
 window = tk.Tk()
 window.title("App de Temperatura")
-
-
 window.config(bg="#0080ff")
 font = ("Arial", 14)
 
